@@ -1,6 +1,6 @@
 # Coffeeshop_Online_Store
  This website was developed using Django 3.2.9 and Python 3.6.8.
- In order to run this project you need to run a few commands:
+ In order to run this project you need to type in a few commands:
 
 py manage.py migrate - will solve all the path problems and conflicts
 
